@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpspec/phpspec": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/Acme"
+        }
+    }
+}
